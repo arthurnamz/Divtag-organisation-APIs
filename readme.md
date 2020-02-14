@@ -9,9 +9,10 @@
 
 ## About Divtag-organisation-APIs
 - clone the repository
--  navigate 
+-  navigate to the project folder
 - run composer update or composer install
-- 3.For Database, run migrate command. php artisan migrate
+- For Database, run migrate command. php artisan migrate
+- API endpoints, navigate to routes folder, api.php 
 
 ## About Laravel
 
