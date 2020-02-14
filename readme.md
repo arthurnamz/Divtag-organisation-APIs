@@ -7,6 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## About Divtag-organisation-APIs
+- clone the repository
+-  navigate 
+- run composer update or composer install
+- 3.For Database, run migrate command. php artisan migrate
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
@@ -58,11 +64,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - [Understand.io](https://www.understand.io/)
 - [Abdel Elrafa](https://abdelelrafa.com)
 
-## About Divtag-organisation-APIs
-- [1.clone the repository]
-- [2. navigate ]
-- [2.run composer update or composer install]
-- [3.For Database, run migrate command. php artisan migrate]
+
 
 ## Contributing
 
