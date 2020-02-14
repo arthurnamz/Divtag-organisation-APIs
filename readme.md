@@ -8,9 +8,11 @@
 </p>
 
 ## About Divtag-organisation-APIs
-- clone the repository https://github.com/arthurnamz/Divtag-organisation-APIs.git
--  navigate to the project folder
-- run composer update or composer install
+- Clone the repository from https://github.com/arthurnamz/Divtag-organisation-APIs.git
+- Navigate to the project folder
+- Run composer update or composer install
+- Create database 
+- Go to .Env file, Write database name and make sure it should much the database which you have created
 - For Database, run migrate command. php artisan migrate
 - API endpoints, navigate to routes folder, api.php 
 
