@@ -8,7 +8,7 @@
 </p>
 
 ## About Divtag-organisation-APIs
-- clone the repository
+- clone the repository https://github.com/arthurnamz/Divtag-organisation-APIs.git
 -  navigate to the project folder
 - run composer update or composer install
 - For Database, run migrate command. php artisan migrate
